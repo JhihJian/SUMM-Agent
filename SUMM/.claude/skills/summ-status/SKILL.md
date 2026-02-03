@@ -1,5 +1,5 @@
 ---
-name: summ-status
+name: status
 description: SUMM Manager 的状态查询技能。当用户提交 /status 指令时触发：显示任务看板内容、查询 Worker Session 运行状态。
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: summ-todo
+name: todo
 description: SUMM Manager 的任务创建技能。当用户提交 /todo 指令时触发：创建新任务、生成任务文件、启动 Worker Session。用于将任务委托给独立的 Claude Code 会话执行。
 ---
 

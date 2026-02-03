@@ -1,5 +1,5 @@
 ---
-name: summ-clean
+name: clean
 description: SUMM Manager 的工作台清理技能。当用户提交 /clean 指令时触发：清空 .summ/active/ 目录，用于 Worker 异常终止后的手动恢复。
 ---
 
